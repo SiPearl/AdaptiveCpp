@@ -14,7 +14,6 @@
 #include "backend.hpp"
 #include "half.hpp"
 #include "multi_ptr.hpp"
-#include "bit_cast.hpp"
 
 #include <cstdint>
 #include <type_traits>
